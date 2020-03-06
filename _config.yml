@@ -6,10 +6,10 @@ remote_theme: rohanchandra/type-theme
 theme_settings:
   # Meta
   title: "스눕피의 Mood Board"
-  avatar: assets/FreakN.jpeg
+  avatar: assets/illmatic.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "I WANT IT THAT WAY" # used by search engines
+  description: "스눕피의 에세이" # used by search engines
 
   # Header and footer text
   header_text:
