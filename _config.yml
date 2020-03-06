@@ -13,9 +13,9 @@ theme_settings:
 
   # Header and footer text
   header_text:
-     <p>소설의 주재료는 상상이지만,</p>
-     <p>에세이의 주재료는 일상입니다.</p>
-     <p>누구에게나 일상은 있습니다.</p>
+     <p>###소설의 주재료는 상상이지만,
+     <p>###에세이의 주재료는 일상입니다.
+     <p>###누구에게나 일상은 있습니다.</p>
      <p>MUSIC, Note to Self by J.Cole</p>
   header_text_feature_image: assets/Big4.jpeg
   footer_text: >
