@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
+feature-img: "assets/foolish.jpeg"
 ---
 
 안녕하세요. [스눕피의 브런치](https://brunch.co.kr/@0to1hunnit/)를 운영하는 '스눕피'입니다.
