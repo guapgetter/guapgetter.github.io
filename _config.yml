@@ -5,7 +5,7 @@ remote_theme: rohanchandra/type-theme
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: "스눕피"
+  title: "스눕피의 Mood Board"
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -16,6 +16,7 @@ theme_settings:
      <p>소설의 주재료는 상상이지만,</p>
      <p>에세이의 주재료는 일상입니다.</p>
      <p>누구에게나 일상은 있습니다.</p>
+     <p>Note to Self by J.Cole</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
