@@ -17,7 +17,7 @@ theme_settings:
      <p>에세이의 주재료는 일상입니다.
      <p>누구에게나 일상은 있습니다.</p>
      <p>MUSIC, Note to Self by J.Cole</p>
-  header_text_feature_image: assets/Big4.jpeg
+  header_text_feature_image: assets/KanBack.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
