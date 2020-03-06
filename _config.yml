@@ -13,7 +13,9 @@ theme_settings:
 
   # Header and footer text
   header_text:
-     <p>소설의 주재료는 상상이지만, 에세이의 주재료는 일상입니다. 누구에게나 일상은 있습니다.</p>
+     <p>소설의 주재료는 상상이지만,</p>
+     <p>에세이의 주재료는 일상입니다.</p>
+     <p>누구에게나 일상은 있습니다.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
