@@ -5,17 +5,16 @@ remote_theme: rohanchandra/type-theme
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: 스눕피
+  title: "스눕피"
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "I WANT IT THAT WAY" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>스눕피의 브런치가 지겨워서 옮겼습니다.</p>
+     <p>오케이?</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
@@ -32,7 +31,7 @@ theme_settings:
   github: "rohanchandra/type-theme"
   gitter:
   google_plus:
-  instagram:
+  instagram: "https://www.instagram.com/guapguapgetter/"
   linkedin:  # Full URL
   pinterest:
   reddit:
