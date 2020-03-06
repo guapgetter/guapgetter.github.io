@@ -21,7 +21,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "notoriouswoo@gmail.com"
   behance:
   bitbucket:
   dribbble:
@@ -31,7 +31,7 @@ theme_settings:
   github: "rohanchandra/type-theme"
   gitter:
   google_plus:
-  instagram: "https://www.instagram.com/guapguapgetter/"
+  instagram: "guapguapgetter"
   linkedin:  # Full URL
   pinterest:
   reddit:
