@@ -20,7 +20,7 @@ theme_settings:
      <P>I'm Bad by Rick Ross</p>
      <P>Someone Said by Swae Lee</p>
      <p>W.O.E. Is Me by Jurassic 5</p>
-  header_text_feature_image: assets/KanBack.jpeg
+  header_text_feature_image: assets/foolish.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
